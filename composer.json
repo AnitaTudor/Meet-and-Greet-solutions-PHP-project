@@ -1,0 +1,13 @@
+{
+    "name": "chidosir/meet-and-greet-solutions-php-project",
+    "authors": [
+        {
+            "name": "Anita Tudor Alexandru",
+            "email": "tudoranita1054@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "heroku/heroku-buildpack-php": "*"
+    }
+}

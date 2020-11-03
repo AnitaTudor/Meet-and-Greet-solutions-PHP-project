@@ -42,6 +42,11 @@
         </div>
     </section>
 
+    <section class="project-details">
+        <p>GITHUB link : https://github.com/AnitaTudor/Meet-and-Greet-solutions-PHP-project</p>
+        <p>hosting link: </p>
+    </section>
+
 </main>
 
 
