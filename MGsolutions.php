@@ -44,7 +44,7 @@
 
     <section class="project-details">
         <p>GITHUB link : https://github.com/AnitaTudor/Meet-and-Greet-solutions-PHP-project</p>
-        <p>hosting link: </p>
+        <p>hosting link: https://meet-and-greet-solutions.herokuapp.com/MGsolutions.php</p>
     </section>
 
 </main>
