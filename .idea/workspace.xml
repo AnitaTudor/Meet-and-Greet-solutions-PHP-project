@@ -1,16 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e124d1bd-f273-4b75-8983-a75064e2b627" name="Default Changelist" comment="" />
+    <list default="true" id="e124d1bd-f273-4b75-8983-a75064e2b627" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/php.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MGsolutions.php" beforeDir="false" afterPath="$PROJECT_DIR$/MGsolutions.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="php_install_7.4" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1jjeFK0xgnKConwtN5jVWSyuGtx" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -19,7 +52,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../phpexec/php.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../php_install/php.exe" />
     <property name="settings.editor.selected.configurable" value="Docker" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -47,29 +80,45 @@
       <updated>1604321823748</updated>
       <workItem from="1604321825050" duration="12784000" />
       <workItem from="1604429785136" duration="3663000" />
+      <workItem from="1605697135730" duration="14830000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="349" y="86" key="#CLI_Interpreters" timestamp="1604332876093">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="492" y="181" key="#CLI_Interpreters" timestamp="1605697223606">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="349" y="86" key="#CLI_Interpreters/0.0.1536.864@0.0.1536.864" timestamp="1604332876093" />
-    <state x="475" y="75" key="#PHP" timestamp="1604329544029">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="492" y="181" key="#CLI_Interpreters/0.0.1920.1080/-1920.-6.1920.1080@0.0.1920.1080" timestamp="1605697223606" />
+    <state x="594" y="94" key="#PHP" timestamp="1605697229112">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="475" y="75" key="#PHP/0.0.1536.864@0.0.1536.864" timestamp="1604329544029" />
-    <state x="549" y="186" key="FileChooserDialogImpl" timestamp="1604332867010">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="594" y="94" key="#PHP/0.0.1920.1080/-1920.-6.1920.1080@0.0.1920.1080" timestamp="1605697229112" />
+    <state x="723" y="282" key="FileChooserDialogImpl" timestamp="1605697207894">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="549" y="186" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1604332867010" />
-    <state x="604" y="356" key="NewPhpFileDialog" timestamp="1604327630946">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="723" y="282" key="FileChooserDialogImpl/0.0.1920.1080/-1920.-6.1920.1080@0.0.1920.1080" timestamp="1605697207894" />
+    <state x="755" y="445" key="NewPhpFileDialog" timestamp="1605698268383">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="604" y="356" key="NewPhpFileDialog/0.0.1536.864@0.0.1536.864" timestamp="1604327630946" />
+    <state x="755" y="445" key="NewPhpFileDialog/0.0.1920.1080/-1920.-6.1920.1080@0.0.1920.1080" timestamp="1605698268383" />
     <state x="277" y="77" key="SettingsEditor" timestamp="1604332911812">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
