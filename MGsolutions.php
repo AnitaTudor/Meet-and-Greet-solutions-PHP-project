@@ -20,7 +20,7 @@
 <body><nav class="navbar navbar-color-on-scroll navbar-transparent fixed-top navbar-expand-lg"  color-on-scroll="100">
     <div class="container">
         <div class="navbar-translate">
-            <a class="navbar-brand" href="/Meet-and-Greet-solutions-PHP-project/MGsolutions.php?_ijt=e5tn9ni10qed4suvtt62iekbqj#">
+            <a class="navbar-brand" href="/Meet-and-Greet-solutions-PHP-project/MGsolutions.php">
                 M&G Solutions </a>
 
             <button class="navbar-toggler" type="button" data-toggle="collapse" aria-expanded="false" aria-label="Toggle navigation">
@@ -48,7 +48,7 @@
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" rel="tooltip" title="" data-placement="bottom" href="https://twitter.com/modusponens112" target="_blank" data-original-title="Follow us on Twitter" rel="nofollow">
+                    <a class="nav-link" rel="tooltip" title="" data-placement="bottom" href="https://twitter.com/modusponens4" target="_blank" data-original-title="Follow us on Twitter" rel="nofollow">
                         <i class="fa fa-twitter"></i>
                     </a>
                 </li>
