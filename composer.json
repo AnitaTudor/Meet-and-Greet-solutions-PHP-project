@@ -6,8 +6,12 @@
             "email": "tudoranita1054@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+
+
+    },
     "require-dev": {
         "heroku/heroku-buildpack-php": "*"
+
     }
 }

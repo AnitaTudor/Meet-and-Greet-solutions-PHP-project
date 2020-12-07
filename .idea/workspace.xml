@@ -20,8 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e124d1bd-f273-4b75-8983-a75064e2b627" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/data/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MGsolutions.php" beforeDir="false" afterPath="$PROJECT_DIR$/MGsolutions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,18 +45,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="php_install_7.4" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1jjeFK0xgnKConwtN5jVWSyuGtx" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../php_install/php.exe" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+    <property name="last_opened_file_path" value="C:/Program Files/php/php.exe" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\tudor\GRUPA_232\PHP_project\Meet-and-Greet-solutions-PHP-project\data" />
+    </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.MGsolutions.php">
     <configuration name="MGsolutions.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/php/MGsolutions.php" useBuiltInWebServerPort="true">
@@ -82,6 +92,11 @@
       <workItem from="1605697135730" duration="15145000" />
       <workItem from="1606907510748" duration="2284000" />
       <workItem from="1606909829702" duration="10721000" />
+      <workItem from="1607343497386" duration="428000" />
+      <workItem from="1607343936595" duration="9734000" />
+      <workItem from="1607354295056" duration="1408000" />
+      <workItem from="1607356408426" duration="1612000" />
+      <workItem from="1607358043638" duration="772000" />
     </task>
     <servers />
   </component>
@@ -101,33 +116,51 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="492" y="181" key="#CLI_Interpreters" timestamp="1605697223606">
+    <state x="412" y="241" key="#CLI_Interpreters" timestamp="1607357829738">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="349" y="86" key="#CLI_Interpreters/0.0.1536.864@0.0.1536.864" timestamp="1604332876093" />
-    <state x="492" y="181" key="#CLI_Interpreters/0.0.1920.1080/-1920.-6.1920.1080@0.0.1920.1080" timestamp="1605697223606" />
-    <state x="475" y="75" key="#PHP" timestamp="1606907554643">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="412" y="241" key="#CLI_Interpreters/0.0.1920.1080/-1920.-6.1920.1080@0.0.1920.1080" timestamp="1607357829738" />
+    <state x="594" y="94" key="#PHP" timestamp="1607343562683">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="475" y="75" key="#PHP/0.0.1536.864@0.0.1536.864" timestamp="1606907554643" />
-    <state x="594" y="94" key="#PHP/0.0.1920.1080/-1920.-6.1920.1080@0.0.1920.1080" timestamp="1605697229112" />
-    <state x="363" y="125" key="DBNavigator.ProjectSettingsDialog" timestamp="1606910645470">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="594" y="94" key="#PHP/0.0.1920.1080/-1920.-6.1920.1080@0.0.1920.1080" timestamp="1607343562683" />
+    <state x="890" y="187" width="816" height="648" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607351390217">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="890" y="187" width="816" height="648" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/-1920.-6.1920.1080@0.0.1920.1080" timestamp="1607351390217" />
+    <state x="620" y="228" key="DBNavigator.ConnectionInfoDialog" timestamp="1607348828198">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="620" y="228" key="DBNavigator.ConnectionInfoDialog/0.0.1920.1080/-1920.-6.1920.1080@0.0.1920.1080" timestamp="1607348828198" />
+    <state x="556" y="153" key="DBNavigator.ProjectSettingsDialog" timestamp="1607358108793">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="363" y="125" key="DBNavigator.ProjectSettingsDialog/0.0.1536.864@0.0.1536.864" timestamp="1606910645470" />
-    <state x="723" y="282" key="FileChooserDialogImpl" timestamp="1605697207894">
+    <state x="556" y="153" key="DBNavigator.ProjectSettingsDialog/0.0.1920.1080/-1920.-6.1920.1080@0.0.1920.1080" timestamp="1607358108793" />
+    <state x="723" y="282" key="FileChooserDialogImpl" timestamp="1607356465129">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="549" y="186" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1604332867010" />
-    <state x="723" y="282" key="FileChooserDialogImpl/0.0.1920.1080/-1920.-6.1920.1080@0.0.1920.1080" timestamp="1605697207894" />
-    <state x="604" y="356" key="NewPhpFileDialog" timestamp="1606914111996">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="723" y="282" key="FileChooserDialogImpl/0.0.1920.1080/-1920.-6.1920.1080@0.0.1920.1080" timestamp="1607356465129" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1607351312520">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1920.1080/-1920.-6.1920.1080@0.0.1920.1080" timestamp="1607351312520" />
+    <state x="755" y="445" key="NewPhpFileDialog" timestamp="1607348932532">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="604" y="356" key="NewPhpFileDialog/0.0.1536.864@0.0.1536.864" timestamp="1606914111996" />
-    <state x="755" y="445" key="NewPhpFileDialog/0.0.1920.1080/-1920.-6.1920.1080@0.0.1920.1080" timestamp="1605698268383" />
-    <state x="277" y="77" key="SettingsEditor" timestamp="1606910028612">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="755" y="445" key="NewPhpFileDialog/0.0.1920.1080/-1920.-6.1920.1080@0.0.1920.1080" timestamp="1607348932532" />
+    <state x="346" y="96" key="SettingsEditor" timestamp="1607357830341">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1606910028612" />
+    <state x="346" y="96" key="SettingsEditor/0.0.1920.1080/-1920.-6.1920.1080@0.0.1920.1080" timestamp="1607357830341" />
+    <state x="854" y="427" width="316" height="244" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1607351460389">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="854" y="427" width="316" height="244" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1920.1080/-1920.-6.1920.1080@0.0.1920.1080" timestamp="1607351460389" />
   </component>
 </project>
