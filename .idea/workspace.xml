@@ -28,7 +28,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -42,7 +42,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="php_install_7.4" />
   <component name="ProjectId" id="1jjeFK0xgnKConwtN5jVWSyuGtx" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -52,7 +52,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../php_install/php.exe" />
-    <property name="settings.editor.selected.configurable" value="Docker" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="JavaScript Debug.MGsolutions.php">
@@ -80,6 +80,8 @@
       <workItem from="1604321825050" duration="12784000" />
       <workItem from="1604429785136" duration="3663000" />
       <workItem from="1605697135730" duration="15145000" />
+      <workItem from="1606907510748" duration="2284000" />
+      <workItem from="1606909829702" duration="10721000" />
     </task>
     <servers />
   </component>
@@ -96,6 +98,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="492" y="181" key="#CLI_Interpreters" timestamp="1605697223606">
@@ -103,24 +106,28 @@
     </state>
     <state x="349" y="86" key="#CLI_Interpreters/0.0.1536.864@0.0.1536.864" timestamp="1604332876093" />
     <state x="492" y="181" key="#CLI_Interpreters/0.0.1920.1080/-1920.-6.1920.1080@0.0.1920.1080" timestamp="1605697223606" />
-    <state x="594" y="94" key="#PHP" timestamp="1605697229112">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="475" y="75" key="#PHP" timestamp="1606907554643">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="475" y="75" key="#PHP/0.0.1536.864@0.0.1536.864" timestamp="1604329544029" />
+    <state x="475" y="75" key="#PHP/0.0.1536.864@0.0.1536.864" timestamp="1606907554643" />
     <state x="594" y="94" key="#PHP/0.0.1920.1080/-1920.-6.1920.1080@0.0.1920.1080" timestamp="1605697229112" />
+    <state x="363" y="125" key="DBNavigator.ProjectSettingsDialog" timestamp="1606910645470">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="363" y="125" key="DBNavigator.ProjectSettingsDialog/0.0.1536.864@0.0.1536.864" timestamp="1606910645470" />
     <state x="723" y="282" key="FileChooserDialogImpl" timestamp="1605697207894">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="549" y="186" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1604332867010" />
     <state x="723" y="282" key="FileChooserDialogImpl/0.0.1920.1080/-1920.-6.1920.1080@0.0.1920.1080" timestamp="1605697207894" />
-    <state x="755" y="445" key="NewPhpFileDialog" timestamp="1605698268383">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="604" y="356" key="NewPhpFileDialog/0.0.1536.864@0.0.1536.864" timestamp="1604327630946" />
-    <state x="755" y="445" key="NewPhpFileDialog/0.0.1920.1080/-1920.-6.1920.1080@0.0.1920.1080" timestamp="1605698268383" />
-    <state x="277" y="77" key="SettingsEditor" timestamp="1604332911812">
+    <state x="604" y="356" key="NewPhpFileDialog" timestamp="1606914111996">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1604332911812" />
+    <state x="604" y="356" key="NewPhpFileDialog/0.0.1536.864@0.0.1536.864" timestamp="1606914111996" />
+    <state x="755" y="445" key="NewPhpFileDialog/0.0.1920.1080/-1920.-6.1920.1080@0.0.1920.1080" timestamp="1605698268383" />
+    <state x="277" y="77" key="SettingsEditor" timestamp="1606910028612">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1606910028612" />
   </component>
 </project>
